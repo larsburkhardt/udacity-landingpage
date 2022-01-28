@@ -1,13 +1,15 @@
 # Landing Page Project
-
+made by Lars Burkhardt with the help of lots of coffee
 ## Table of Contents
 
-* [Instructions](#instructions)
+Tried to keep the code clean and sorted.
 
-## Instructions
+There is an option to hide the header on scroll, but I decided to deactivate the event listener cause of unconvenience of this interactivity
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+## Functionalities
+- Smooth scroll when clicking link in navbar
+- Highlighting link when scrolling to corresponding section
+- Section gets highlighted when into view
+- Scroll-to-top button added, placed right bottom of the page
 
-To get started, open `js/app.js` and start building out the app's functionality
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
